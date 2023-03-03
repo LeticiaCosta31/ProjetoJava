@@ -1,0 +1,11 @@
+Charmeleon;3;200
+Ivysaur;4;100
+Wartortle;10;800
+Pidgeotto;1;50
+Pikachu;5;500
+Kadabra;3;200
+Haunter;1;200
+Magikarp;2;400
+Dragonair;4;200
+Horsea;7;300
+Raichu;2;200
